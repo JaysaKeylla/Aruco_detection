@@ -1,1 +1,1 @@
-# Aruco_detection
+# Reconhecimento de gestos
